@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucascesar918
+- 👀 I’m interested in computer science, math and physics
+- 🌱 I’m currently learning some of the most popular programming languages
+- 📫 How to reach me: macauli#4161
