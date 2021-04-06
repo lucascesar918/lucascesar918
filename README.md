@@ -4,7 +4,7 @@
 - 📫 How to reach me on Discord: macauli#4161
 
 
-#Languages I know the best
+# Languages I know the best
 
 * HTML
 * CSS
@@ -12,7 +12,7 @@
 * C
 * Pascal
 
-#Languages I speak
+# Languages I speak
 
 * Portuguese
 * English
