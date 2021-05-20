@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@lucascesar918**
 - 👀 I’m interested in computer science, math and physics
-- 🌱 I’m currently learning some of the most popular programming languages
+- 🌱 I’m currently learning some of the most popular technologies
 - 📫 How to reach me on Discord: **macauli#4161**
 
 
