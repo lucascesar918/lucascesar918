@@ -10,7 +10,7 @@
 * CSS
 * Python
 * C
-* Pascal
+* JavaScript
 
 # Languages I speak
 
