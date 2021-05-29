@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=lucascesar918.CharalambosIoannou)
+
 # About me
   ## Hello, I'm **Lucas César Freitas** 👋
   
@@ -7,26 +9,21 @@
   - 🤯 *Struggling to graduate on high school*
   - 🎯 ***2021 Goals:** Clone more repositories to study*
   
-<hr>
+---
 
-# 📚 Some of what I know best
+# 📚 Some of what I'm working on
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=tokyonight)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascesar918)](https://github.com/anuraghazra/github-readme-stats)
 
- - **C**
- - **C++**
- - **C#**
- - **CSS**
- - **HTML**
- - **JavaScript**
- - **Python**
-
-<hr>
+---
 
 # 🗣️ Languages I speak
 
  - 🇧🇷 **Portuguese**
  - 🇺🇸 **English**
 
-<hr>
+---
 
 # 💬 Text me on
 
