@@ -1,20 +1,33 @@
-- 👋 Hi, I’m **Lucas César Freitas**
-- 👀 I’m interested in computer science, math and physics
-- 🌱 I’m currently learning some of the most popular technologies
-- 📫 How to reach me on Discord: **macauli#4161**
+#About me
+  ##Hello, I'm **Lucas César Freitas** 👋
 
+  ##I'm seventeen years old student
+    🇧🇷 *I'm from Brazil*
+    👨‍💻 *Currently learning some of the most popular technologies*
+    🤯 *Struggling to graduate on high school*
+    🎯 **2021 Goals:** *Clone more repositories to study*
+  
+<hr>
 
-# Some of what I know best
+# Some of what I know best 📚
 
-* C
-* C++
-* C#
-* CSS
-* HTML
-* JavaScript
-* Python
+  * C
+  * C++
+  * C#
+  * CSS
+  * HTML
+  * JavaScript
+  * Python
 
-# Languages I speak
+<hr>
 
-* Portuguese
-* English
+# Languages I speak 🗣️
+
+  * 🇧🇷 Portuguese
+  * 🇺🇸 English
+
+<hr>
+
+# Find me on
+
+  **Discord**: macauli#4161
