@@ -6,11 +6,13 @@
 
 # Some of what I know best
 
-* HTML
-* CSS
-* Python
 * C
+* C++
+* C#
+* CSS
+* HTML
 * JavaScript
+* Python
 
 # Languages I speak
 
