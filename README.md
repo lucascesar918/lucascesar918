@@ -7,7 +7,6 @@
   - 🇧🇷 *I'm from Brazil*
   - 👨‍💻 *Currently learning some of the most popular technologies*
   - 🤯 *Struggling to graduate on high school*
-  - 🎯 ***2021 Goals:** Clone more repositories to study*
   
 ---
 
