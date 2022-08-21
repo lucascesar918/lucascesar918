@@ -3,9 +3,8 @@
 # About me
   ## Hello, I'm **Lucas César Freitas** 👋
   
-  - 🧑‍🎓 *I'm a sixteen years old student*
   - 🇧🇷 *I'm from Brazil*
-  - 👨‍💻 *Currently learning some of the most popular technologies*
+  - 👨‍💻 *Currently learning all I can about hacking*
   - 🤯 *Struggling to graduate on high school*
   
 ---
