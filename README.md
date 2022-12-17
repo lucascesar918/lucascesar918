@@ -4,7 +4,7 @@
 
 ### Hello world! 👋
 
-Desenvolvo software (com muito perfeccionismo) e me interesso no desenvolvimento de projetos open-source
+Desenvolvo software (com um perfeccionismo considerável) e me interesso no desenvolvimento de projetos open-source
 
 <br>
 
