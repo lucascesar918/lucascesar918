@@ -11,6 +11,8 @@ Desenvolvo software (com um perfeccionismo considerável) e me interesso no dese
 ## **Linguagens e Ferramentas:**  
 
 [![My Skills](https://skills.thijs.gg/icons?i=cs,c,py,js,mysql,vim,git)](https://skills.thijs.gg)
+<img width=50 src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667">
+
 <div>
 <img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png">
 <img height=50 src="https://wiki.archlinux.org/extensions/ArchLinux/modules/archnavbar/archlogo.svg?29b1c">
