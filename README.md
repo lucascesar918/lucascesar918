@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=lucascesar918.CharalambosIoannou)
+![Curiosos](https://visitor-badge.laobi.icu/badge?page_id=lucascesar918.CharalambosIoannou)
 
 <img align="right" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/941712430418642443/CC99A6D0B773AC668245EAE04E1A0D553F24D1D5/" />
 
