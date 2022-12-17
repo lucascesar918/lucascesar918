@@ -21,11 +21,11 @@ Desenvolvo software (com um perfeccionismo considerável) e me interesso no dese
 ## **Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=dracula&hide=css,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=github_dark&hide=css,html" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascesar918&show_icons=true&theme=dracula&line_height=27" alt="**Lucas** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascesar918&show_icons=true&theme=github_dark&line_height=27" alt="**Lucas** github stats"/>
 </a>
 
 <br>
