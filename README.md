@@ -7,7 +7,6 @@
 Desenvolvo software (com um perfeccionismo considerável) e me interesso no desenvolvimento de projetos open-source
 
 <br>
-<hr>
 
 ## **Linguagens e Ferramentas:**  
 
