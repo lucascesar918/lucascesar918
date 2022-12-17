@@ -15,7 +15,8 @@ Desenvolvo software (com um perfeccionismo considerável) e me interesso no dese
 
 <div>
 <img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png">
-<img height=50 src="https://wiki.archlinux.org/extensions/ArchLinux/modules/archnavbar/archlogo.svg?29b1c">
+<img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/2048px-Archlinux-icon-crystal-64.svg.png">
+<img height=50 src="https://cdn.iconscout.com/icon/free/png-256/freebsd-202379.png">
 </div>
 
 <br>
