@@ -18,7 +18,7 @@ Desenvolvo software (com um perfeccionismo considerável) e me interesso no dese
 
 <br>
 
-## **GitHub Estatísticas**
+## **Estatísticas**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=dracula&hide=css,html" />
