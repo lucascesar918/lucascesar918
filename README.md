@@ -26,9 +26,9 @@ Back-End? DevOps? Cibersegurança? **Eu não faço ideia**.
 ## **Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=github_dark&hide=css,html,asp.net" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=github_dark&hide=css,html,asp.net&PAT_1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascesar918&show_icons=true&theme=github_dark&line_height=27" alt="**Lucas** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascesar918&show_icons=true&theme=github_dark&line_height=27&PAT_1" alt="**Lucas** github stats"/>
 </a>
