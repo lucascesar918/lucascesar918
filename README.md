@@ -32,22 +32,3 @@ Back-End? DevOps? Cibersegurança? **Eu não faço ideia**.
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascesar918&show_icons=true&theme=github_dark&line_height=27" alt="**Lucas** github stats"/>
 </a>
-
-<br>
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-
-```python
-import Desenvolvedor from 'lucascesar918';
-
-class SobreMim extends Desenvolvedor {
-  nome     = "Lucas";
-  area    = "Back-End";
-  local = "Brasil, SP";
-}
-
-class Skills extends Desenvolvedor {
-  linguagens  = ["C#", "C", "Python", "JavaScript", "MySQL", "Shell"];
-  frameworks = [".NET Core", "Ionic"];
-}
-```
