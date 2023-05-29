@@ -19,6 +19,7 @@ Back-End? DevOps? Cibersegurança? **Eu não faço ideia**.
 <img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png">
 <img height=50 src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwiki.installgentoo.com%2Fimages%2Ff%2Ff9%2FArch-linux-logo.png&f=1&nofb=1&ipt=91c90108933db9a3ce9127cf7522f70da31b3c7f9c3575819883f77bed1f26ff&ipo=images">
 <img height=50 src="https://cdn.iconscout.com/icon/free/png-256/freebsd-202379.png">
+<img height=50 src="https://static.opensuse.org/favicon.svg">
 </div>
 
 <br>
