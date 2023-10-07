@@ -4,7 +4,7 @@
 
 ### Hello world! 👋
 
-Desenvolvo software (com um perfeccionismo considerável) e me interesso no desenvolvimento de projetos open-source.
+Desenvolvo software e me interesso no desenvolvimento de projetos open-source.
 
 Back-End? DevOps? Cibersegurança? **Eu não faço ideia**.
 
