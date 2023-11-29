@@ -23,7 +23,7 @@ Back-End? DevOps? Cibersegurança? **Eu não faço ideia**.
 <hr>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=github_dark&hide=css,html,asp.net,javascript,lua&PAT_1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=github_dark&hide=css,html,asp.net,javascript,lua,perl&PAT_1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
