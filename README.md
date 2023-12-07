@@ -6,7 +6,7 @@
 
 Desenvolvo software e me interesso no desenvolvimento de projetos open-source.
 
-Back-End? DevOps? Cibersegurança? **Eu não faço ideia**.
+Viva o software livre!
 
 <br>
 
