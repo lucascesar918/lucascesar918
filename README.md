@@ -6,7 +6,7 @@
 
 Desenvolvo software e me interesso no desenvolvimento de projetos open-source.
 
-Viva o software livre!
+_**Viva o software livre!**_
 
 <br>
 
