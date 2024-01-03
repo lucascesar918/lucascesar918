@@ -12,9 +12,7 @@ _**Viva o software livre!**_
 
 <hr>
 
-[![My Skills](https://skills.thijs.gg/icons?i=cs,c,py,js,rust,mysql,vim,git)](https://skills.thijs.gg)
-<img width=50 src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667">
-<img width=50 src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png">
+[![My Skills](https://skills.thijs.gg/icons?i=cs,dotnet,c,py,js,jquery,rust,mysql,vim,git,docker,linux,bash)](https://skills.thijs.gg)
 <div>
   
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
