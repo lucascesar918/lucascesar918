@@ -13,7 +13,7 @@ _**Viva o software livre!**_
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=cs,dotnet,c,py,js,jquery,rust,mysql,vim,git,docker,linux,bash"/>
+    <img src="https://skills.thijs.gg/icons?i=cs,dotnet,c,py,php,js,jquery,rust,mysql,vim,git,docker,linux,bash"/>
   </a>
   <br><br>
   <a href="https://shields.io/">
