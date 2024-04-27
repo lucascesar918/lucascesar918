@@ -17,7 +17,7 @@ _**Viva o software livre!**_
   </a>
   <br><br>
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
   </a>
   </p>
 
