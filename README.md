@@ -23,10 +23,8 @@ _**Viva o software livre!**_
 
 <hr>
 
-<a href="https://github.com/Gurupreet">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=github_dark&hide=css,html,asp.net,javascript,lua,perl&PAT_1" />
-</a>
+![lucascesar918's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=react&exclude%20repo=dotfiles&hide=css,html,asp.net,javascript,lua,perl,shell,vim%20script&show_icons=true&hide_border=true&layout=donut)
 
-<a href="https://github.com/Gurupreet">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=lucascesar918&show_icons=true&theme=github_dark&line_height=27&PAT_1" alt="**Lucas** github stats"/>
-</a>
+![lucascesar918's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucascesar918&theme=react&hide_border=true)
+
+![lucascesar918's Stats](https://github-readme-stats.vercel.app/api?username=lucascesar918&theme=react&show_icons=true&hide_border=true&count_private=true)
