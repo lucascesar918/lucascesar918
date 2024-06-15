@@ -24,6 +24,6 @@ Desenvolvo software e me interesso no desenvolvimento de projetos open-source.
 
 <hr>
 
-![lucascesar918's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=react&exclude%20repo=dotfiles&hide=css,html,asp.net,javascript,lua,perl,shell,vim%20script&show_icons=true&hide_border=true&layout=donut)
+![lucascesar918's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesar918&theme=react&exclude%20repo=dotfiles&hide=css,html,asp.net,javascript,lua,perl,shell,vim%20script&show_icons=true&hide_border=true&layout=donut&size_weight=0.7&count_weight=1)
 ![lucascesar918's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucascesar918&theme=react&hide_border=true)
 ![lucascesar918's Stats](https://github-readme-stats.vercel.app/api?username=lucascesar918&theme=react&show_icons=true&hide_border=true&count_private=true)
