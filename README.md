@@ -12,7 +12,7 @@ Desenvolvo software e me interesso no desenvolvimento de projetos open-source.
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,py,rust,mysql,php,js,jquery">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,c,py,rust,mysql,php,js,jquery">
     <br>
     <img src="https://skillicons.dev/icons?i=vim,linux,git">
   </a>
