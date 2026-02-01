@@ -1,6 +1,6 @@
 ![Curiosos](https://visitor-badge.laobi.icu/badge?page_id=lucascesar918.CharalambosIoannou&left_text=Curiosos)
 
-<img align="right" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/941712430418642443/CC99A6D0B773AC668245EAE04E1A0D553F24D1D5/" />
+<img title="" src="images/neo.gif" alt="" align="right" width="400">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=5BF731&random=false&width=260&lines=Hello+world!+%F0%9F%91%8B;Viva+o+software+livre!)](https://git.io/typing-svg)
 
