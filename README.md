@@ -19,7 +19,8 @@ Desenvolvo software e me interesso no desenvolvimento de projetos open-source.
   </a>
   <br><br>
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge">
   </a>
   </p>
 
